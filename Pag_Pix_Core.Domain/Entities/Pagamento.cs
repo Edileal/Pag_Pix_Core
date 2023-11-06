@@ -8,9 +8,10 @@ namespace Pag_Pix_Core.Domain.Entities
 {
     public class Pagamento
     {
-        public DateTime diasPesquisa;
-        public Pagador pagador;
-        public Recebedor recebedor;
-        public decimal valor;
+        public Guid Id { get; set; }
+        public DateTime diasPesquisa { get; set; }
+        public Pagador pagador { get; set; }
+        public Recebedor recebedor { get; set; }
+        public decimal valor { get; set; }
     }
 }

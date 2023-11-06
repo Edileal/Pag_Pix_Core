@@ -2,7 +2,8 @@
 {
     public class Pagador
     {
-        public string cnpj;
-        public string chavePix;
+        public Guid Id { get; set; }
+        public string cnpj { get; set; }
+        public string chavePix { get; set; }
     }
 }

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pag_Pix_Core.Api", "Pag_Pix_Core\Pag_Pix_Core.Api.csproj", "{4A6AF9BD-EA3A-4D9D-A7A5-11579A4093BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pag_Pix_Core.Api", "Pag_Pix_Core\Pag_Pix_Core.Api.csproj", "{4A6AF9BD-EA3A-4D9D-A7A5-11579A4093BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pag_Pix_Core.Domain", "Pag_Pix_Core.Domain\Pag_Pix_Core.Domain.csproj", "{FE0E2DD0-E11E-4654-BCAA-C16B46B721D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pag_Pix_Core.Domain", "Pag_Pix_Core.Domain\Pag_Pix_Core.Domain.csproj", "{FE0E2DD0-E11E-4654-BCAA-C16B46B721D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pag_Pix_Core.Repository", "Pag_Pix_Core.Repository\Pag_Pix_Core.Repository.csproj", "{96AE9AED-42AD-416D-83A5-E7174ADCDCCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pag_Pix_Core.Repository", "Pag_Pix_Core.Repository\Pag_Pix_Core.Repository.csproj", "{96AE9AED-42AD-416D-83A5-E7174ADCDCCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pag_Pix_Core.Service", "Pag_Pix_Core.Service\Pag_Pix_Core.Service.csproj", "{0CB801E1-62C6-4357-A6ED-38A7B1D9A893}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pag_Pix_Core.Service", "Pag_Pix_Core.Service\Pag_Pix_Core.Service.csproj", "{0CB801E1-62C6-4357-A6ED-38A7B1D9A893}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

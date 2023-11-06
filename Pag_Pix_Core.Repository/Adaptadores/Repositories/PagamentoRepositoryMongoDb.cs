@@ -1,9 +1,14 @@
 ﻿using Pag_Pix_Core.Domain.Entities;
 using Pag_Pix_Core.Domain.Interfaces;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Pag_Pix_Core.Repository.Repositories
+namespace Pag_Pix_Core.Repository.Adaptadores.Repositories
 {
-    internal class PagamentoRepositorySqlServer : IPagamentoRepository
+    public class PagamentoRepositoryMongoDb : IPagamentoRepository
     {
         public Task BuscarPagamento(Pagamento pagamento)
         {

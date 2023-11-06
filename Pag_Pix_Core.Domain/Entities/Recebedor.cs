@@ -2,6 +2,7 @@
 {
     public class Recebedor
     {
+        public Guid Id { get; set; }
         public string cpf;
         public string chavePix;
     }
